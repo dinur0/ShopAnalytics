@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  MyDiplomWork
-//
-//  Created by хех on 25.02.2024.
-//
-
 import SwiftUI
 
 struct ContentView: View {
